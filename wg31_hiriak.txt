@@ -1,1 +1,7 @@
-Urnieta, Andoain, Irun, Beasain, Donostia eta Pasaia, Lasarte-Oria eta Oiartzun, Lesaka 
+
+Urnieta,
+ Andoain, 
+Irun,
+ Beasain,
+ Donostia eta Pasaia, Lasarte-Oria eta Oiartzun, Lesaka, Ordizia 
+
